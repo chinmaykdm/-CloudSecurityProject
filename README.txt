@@ -1,6 +1,6 @@
 Cloud Security Implementation Project
 Name: Chinmay Kadam
-Date: [Enter Date]
+Date: [7/7/2025]
 Platform: AWS
 Description:
 This project demonstrates implementation of IAM user permissions, secure S3 bucket setup,
